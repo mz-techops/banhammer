@@ -1,6 +1,6 @@
 backports.ssl-match-hostname==3.5.0.1
 decorator==4.0.10
-Django==1.10.5
+Django==1.11.29
 djangorestframework==3.5.1
 duo-client==3.0
 netaddr==0.7.18
